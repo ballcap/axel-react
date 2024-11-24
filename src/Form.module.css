@@ -1,0 +1,22 @@
+.form {
+    background: #fff;
+    border: solid 1px #9f9f9f;
+    border-radius: 4px;
+    padding: 50px 0 10px 0;
+    text-align: center;
+}
+
+.btn {
+    background: inherit;
+    color: #1d1;
+    font-weight: 800;
+    padding: 20px 100px;
+    border-radius: 7px;
+    border: solid 2px #1d1;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background: #1d1;
+    color: #eee;
+}

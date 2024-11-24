@@ -1,0 +1,13 @@
+header {
+    background: url(https://images.unsplash.com/photo-1732287932412-6bd1916b19cd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMnx8fGVufDB8fHx8fA%3D%3D);
+    padding: 50px 25px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: #efefef;
+    text-align: center;
+}
+
+header > div {
+    flex: 1;
+}
